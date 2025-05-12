@@ -1,4 +1,4 @@
-# early-periphyton-colonization
+# short-term-colonization-periphyton
 # Supplementary Materials – Short-term Colonization by Pseudo-periphyton under Thermal Stress
 
 This repository contains the supplementary data and analysis scripts for the study *“Short-term colonization dynamics of pseudo-periphyton under thermal stress”*.
