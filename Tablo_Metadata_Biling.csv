@@ -1,0 +1,24 @@
+Variable,Descripción (español),Description (English)
+ID,"Identificador único de la imagen (día, temperatura, réplica y timestamp)","Unique identifier of the image (day, temperature, replicate, and timestamp)"
+Day,Día del experimento en que se tomó la imagen,Day of the experiment when the image was taken
+Temperature (°C),Temperatura del tratamiento experimental (en grados Celsius),Temperature of the experimental treatment (in degrees Celsius)
+Replicate,Número de réplica para esa combinación día–temperatura,Replicate number for that day–temperature combination
+Cobertura (%),Porcentaje de área cubierta por el biofilm,Percentage of surface covered by biofilm
+N° fragmentos,Número de fragmentos o regiones detectadas en la imagen binarizada,Number of fragments or regions detected in the binarized image
+Dim. fractal,Dimensión fractal estimada por el método de box-counting,Fractal dimension estimated using the box-counting method
+Textura - std,Desvío estándar de la intensidad en escala de grises,Standard deviation of grayscale pixel intensity
+Textura - coef. variación,Coeficiente de variación (std/media) de intensidad,Coefficient of variation (std/mean) of intensity
+Textura - Gini,Índice de Gini aplicado a intensidad de píxeles (distribución),Gini index applied to grayscale intensity distribution
+Textura - skewness,Asimetría de la distribución de intensidades,Skewness of the grayscale intensity distribution
+Textura - curtosis,Curtosis (apuntamiento) de la distribución de intensidades,Kurtosis of the grayscale intensity distribution
+Entropía,Entropía de Shannon del histograma de grises (base 2),Shannon entropy of the grayscale histogram (base 2)
+Gradiente de color,Valor medio del módulo del gradiente (transiciones espaciales de intensidad),Mean value of the gradient magnitude (spatial transitions in intensity)
+Circularidad promedio,Circularidad promedio de las regiones identificadas,Average circularity of the identified regions
+Distancia entre centroides,Distancia promedio entre centroides de las regiones,Average distance between region centroids
+D1 (Information Dimension),Dimensión de información (D1) multifractal,Multifractal information dimension (D1)
+D2 (Correlation Dimension),Dimensión de correlación (D2) multifractal,Multifractal correlation dimension (D2)
+FW (mg/cm2),Biomasa total seca (Fixed Weight) por unidad de superficie,Total dry biomass (Fixed Weight) per unit surface
+Chlo-a (mg/cm2),Clorofila a estimada por unidad de superficie,Estimated chlorophyll-a per unit surface
+EC (uS/cm),Conductividad eléctrica (microsiemens por centímetro),Electrical conductivity (microsiemens per centimeter)
+DO (mg/L),Oxígeno disuelto en el agua (Dissolved Oxygen),Dissolved oxygen in water (mg/L)
+P (ug/L),Fósforo total en el agua en microgramos por litro,Total phosphorus in water (micrograms per liter)
